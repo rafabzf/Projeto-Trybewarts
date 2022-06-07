@@ -11,4 +11,3 @@ function validarEmailSenha () {
 }
 }
 botao.addEventListener('click', validarEmailSenha);
-
