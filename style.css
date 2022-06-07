@@ -37,3 +37,13 @@
 #trybewarts-header-title {
   color: white;
 }
+
+#tagMain {
+  display: flex;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
+}
+
