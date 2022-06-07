@@ -62,3 +62,29 @@ main {
   justify-content: space-around;
 }
 
+#input-name {
+  margin: 7px;
+  border-radius: 5px;
+  height: 20px;
+}
+
+#input-lastname {
+  margin: 7px;
+  border-radius: 5px;
+  height: 20px;
+}
+
+#input-email {
+  margin: 7px;
+  border-radius: 5px;
+  height: 20px;
+}
+
+#house {
+  margin: 7px;
+  border-radius: 5px;
+  background-color: white;
+  height: 26px;
+}
+
+

@@ -19,13 +19,22 @@
   </header>
 
   <div id="container">
+    
     <img src="images/trybewarts-colored.svg" alt="" id="trybewarts-forms-logo">
-    <main>
+
+    <main id="formHouse">
       <form id="evaluation-form">
-        
+        <input type="text" id="input-name" name="input-name" placeholder="Nome">
+        <input type="text" name="input-lastname" id="input-lastname" placeholder="Sobrenome">
+        <input type="email" placeholder="Email" id="input-email" name="input-email">
+        <select name="house" id="house">
+          <option id="gitnoria-house" value="Gitnória">Gitnória</option>
+          <option id="reactpuff-house" value="Reactpuff">Reactpuff</option>
+          <option id="corvinode-house" value="Corvinode">Corvinode</option>
+          <option id="pytherina-house" value="Pytherina">Pytherina</option>
+        </select>
       </form>
     </main>
-    
   </div>
 
   <script src="./script.js"></script>
