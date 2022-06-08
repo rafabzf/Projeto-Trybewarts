@@ -69,6 +69,7 @@ main {
 }
 
 #input-lastname {
+  display: flex;
   margin: 7px;
   border-radius: 5px;
   height: 20px;
@@ -87,4 +88,10 @@ main {
   height: 26px;
 }
 
+#nomeCompleto {
+  display: flex;
+}
 
+#emailCasa {
+  display: flex;
+}
