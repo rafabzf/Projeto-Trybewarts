@@ -95,3 +95,17 @@ main {
 #emailCasa {
   display: flex;
 }
+
+#label-family {
+  margin: 7px;
+}
+
+.family {
+  margin: 7px;
+}
+
+#radio {
+  flex-wrap: wrap;
+}
+
+
