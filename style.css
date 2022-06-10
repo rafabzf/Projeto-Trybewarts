@@ -106,6 +106,9 @@ main {
 
 #radio {
   flex-wrap: wrap;
+  margin: 7px;
 }
 
-
+#checkbox {
+  margin: 7px;
+}
