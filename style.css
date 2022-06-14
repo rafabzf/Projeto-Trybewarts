@@ -46,8 +46,8 @@ main {
   display: flex;
   width: 675px;
   flex-direction: column;
-  border: solid 5px rebeccapurple;
   margin-top: 50px;
+  align-items: center;
 }
 
 #trybewarts-forms-logo {
@@ -65,27 +65,30 @@ main {
 #input-name {
   margin: 7px;
   border-radius: 5px;
-  height: 20px;
+  height: 25px;
+  width: 200px;
 }
 
 #input-lastname {
   display: flex;
   margin: 7px;
   border-radius: 5px;
-  height: 20px;
+  height: 25px;
+  width: 200px;
 }
 
 #input-email {
   margin: 7px;
   border-radius: 5px;
-  height: 20px;
+  height: 25px;
+  width: 200px;
 }
 
 #house {
   margin: 7px;
   border-radius: 5px;
   background-color: white;
-  height: 26px;
+  width: 208px;
 }
 
 #nomeCompleto {
@@ -111,4 +114,12 @@ main {
 
 #checkbox {
   margin: 7px;
+}
+
+#radioBox {
+  margin: 7px;
+}
+
+#containerFamily {
+  display: flex;
 }
