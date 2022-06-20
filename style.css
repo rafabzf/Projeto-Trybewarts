@@ -136,8 +136,18 @@ main {
 }
 
 #textArea1 {
-  border: solid purple 2px;
+  border: solid rgb(76, 6, 166) 2px;
   border-radius: 5px;
   width: 550px;
 }
 
+#containerCheckbox {
+  margin: 7px;
+}
+
+#submit-btn {
+  color: white;
+  background-color: rgb(76, 6, 166);
+  width: 500px;
+  border-radius: 5px;
+}
