@@ -123,3 +123,21 @@ main {
 #containerFamily {
   display: flex;
 }
+
+#areaText {
+  width: 500px;
+  height: 200px;
+  border-radius: 5px;
+}
+
+#containerTextArea {
+  margin: 7px;
+  display: flex;
+}
+
+#textArea1 {
+  border: solid purple 2px;
+  border-radius: 5px;
+  width: 550px;
+}
+
